@@ -1,13 +1,13 @@
 # Site
-repository: wonyongg-eng/github.io
+repository: wonyongg/github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: WonYong Hwang
-title: Junior Backend Developer
+name: 황원용(WonYong Hwang)
+title: 주니어 백엔드 개발자
 email: kakaohwy@gmail.com
 #website: www.github.com/sproogen/resume-theme
 
@@ -31,7 +31,7 @@ linkedin_username: wonyonghwang
 
 # Additional icon links
 additional_links:
-- title: my korean tech blog
+- title: 티스토리 기술 블로그
   icon: fas fa-globe
   url: https://suzuworld.tistory.com/
 # - title: another link
@@ -46,18 +46,18 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: wonyong.jpeg
+about_profile_image: wonyong.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's WonYong and I'm a Junior Backend Developer. I can speak Korean, Japanese, English.
+  안녕하세요. 제 이름은 황원용입니다. 2023년 2월에 코드스테이츠 백엔드 부트캠프를 수료하고 현재 구직 중입니다.
 
-  I am most skilled in: <mark>Java</mark> and <mark>Spring Framework</mark>
+  저는 <mark>자바</mark>와 <mark>스프링</mark>을 활용한 웹 애플리케이션 개발을 공부했습니다.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: My BootCamp Main Project
+        title: 부트캠프 메인 프로젝트
         icon: fab fa-github
         link: https://github.com/wonyongg/seb41_main_027
 #         link_text: Project Website
