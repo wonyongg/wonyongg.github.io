@@ -96,7 +96,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           우리가 함께 그려나가는 서울 친환경 지도, 여러분들의 장소를 공유해주세요.
-        description: # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           * Java, Spring Boot를 사용하여 서버 개발
           * AWS 상에서 배포 및 DB 관리를 위해 EC2, S3, RDS 사용
           * 배포 자동화를 위해 Github Actions 사용
