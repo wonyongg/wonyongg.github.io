@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   저는 <mark>JAVA</mark>와 <mark>Spring Framework</mark>을 활용한 웹 애플리케이션 개발을 공부했습니다.
 
-content:
+#content:
 #  - title: Skills  # Title for the section
 #    quote: >
 #      공부하고 있거나, 공부했던 기술입니다.
@@ -65,7 +65,7 @@ content:
 #          * Java : 부트캠프에서 본격적으로 배웠고 현재 주력으로 사용하고 있는 언어입니다. 부트캠프 메인 프로젝트에서 사용했습니다.
 #          * Spring Boot, Spring MVC, Spring Data JPA, Spring Data Redis : 부트캠프에서 처음 배웠고, 메인 프로젝트에서 사용했습니다.
 #          * Gradle, IntelliJ
-
+#
 #      - layout: left
 #        title: DevOps
 #        description: | # this will include new lines to allow paragraphs
@@ -79,11 +79,12 @@ content:
 #          * MySQL : 메인프로젝트에서 사용했습니다.
 #          * Redis : 인메모리 DB를 활용한 JWT 토큰 관리와 캐시 서버 구현에 사용했습니다.
 
+content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: 부트캠프 메인 프로젝트
+        title: My BootCamp Main Project
         icon: fab fa-github
         link: https://github.com/wonyongg/seb41_main_027
 #         link_text: Project Website
