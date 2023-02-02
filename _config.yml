@@ -94,14 +94,14 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        list: |
-          - Java, Spring Boot를 사용하여 서버 개발
-          - AWS 상에서 배포 및 DB 관리를 위해 EC2, S3, RDS 사용
-          - 배포 자동화를 위해 Github Actions 사용
-          - 서버 성능에 대한 시각화를 위해 AOP를 활용한 로깅 적용
-          - 보다 구체적인 시각화를 위해 Grafana 사용
-          - Redis를 이용하여 캐시 서버 적용
-          - 코드 리팩토링을 위해 Sonarqube 사용
+          |
+          * Java, Spring Boot를 사용하여 서버 개발
+          * AWS 상에서 배포 및 DB 관리를 위해 EC2, S3, RDS 사용
+          * 배포 자동화를 위해 Github Actions 사용
+          * 서버 성능에 대한 시각화를 위해 AOP를 활용한 로깅 적용
+          * 보다 구체적인 시각화를 위해 Grafana 사용
+          * Redis를 이용하여 캐시 서버 적용
+          * 코드 리팩토링을 위해 Sonarqube 사용
         quote: >
           우리가 함께 그려나가는 서울 친환경 지도, 여러분들의 장소를 공유해주세요.
         description: | # this will include new lines to allow paragraphs
