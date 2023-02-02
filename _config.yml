@@ -94,7 +94,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        content: |
+        list: |
           - Java, Spring Boot를 사용하여 서버 개발
           - AWS 상에서 배포 및 DB 관리를 위해 EC2, S3, RDS 사용
           - 배포 자동화를 위해 Github Actions 사용
