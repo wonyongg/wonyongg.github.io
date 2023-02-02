@@ -61,29 +61,29 @@ content:
       - layout: left
         title: Backend
         description: | # this will include new lines to allow paragraphs
-          * Python : 대학교에서 1년 간 교양 수업을 통해 배웠습니다. 교내 코딩 경시 대회에서 장려상 2번 수상한 경험이 있습니다.
-          * Java : 부트캠프에서 본격적으로 배웠고 현재 주력으로 사용하고 있는 언어입니다. 부트캠프 메인 프로젝트에서 사용했습니다.
-          * Spring Boot, Spring MVC, Spring Data JPA, Spring Data Redis : 부트캠프에서 처음 배웠고, 메인 프로젝트에서 사용했습니다.
-          * Gradle, IntelliJ
+          * <strong>Python</strong> : 대학교에서 1년 간 교양 수업을 통해 배웠습니다. 교내 코딩 경시 대회에서 장려상 2번 수상한 경험이 있습니다.
+          * <strong>Java</strong> : 부트캠프에서 본격적으로 배웠고 현재 주력으로 사용하고 있는 언어입니다. 부트캠프 메인 프로젝트에서 사용했습니다.
+          * <strong>Spring Boot</strong>, <strong>Spring MVC</strong>, <strong>Spring Data JPA</strong>, <strong>Spring Data Redis</strong> : 부트캠프에서 처음 배웠고, 메인 프로젝트에서 사용했습니다.
+          * <strong>Gradle</strong>, <strong>IntelliJ</strong>
 
       - layout: left
         title: DataBase
         description: | # this will include new lines to allow paragraphs
-          * MySQL : 메인프로젝트에서 사용했습니다.
-          * Redis : 인메모리 DB를 활용한 JWT 토큰 관리와 캐시 서버 구현에 사용했습니다.
+          * <strong>MySQL</strong> : 메인프로젝트에서 사용했습니다.
+          * <strong>Redis</strong> : 인메모리 DB를 활용한 JWT 토큰 관리와 캐시 서버 구현에 사용했습니다.
 
       - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
-          * GithubActions : 메인 프로젝트에서 서버 배포 자동화를 위해 공부하고 사용했습니다.
+          * <strong>GithubActions</strong> : 메인 프로젝트에서 서버 배포 자동화를 위해 공부하고 사용했습니다.
           * AWS :
-            * EC2, S3, RDS, CodeDeploy : 메인 프로젝트에서 서버 배포를 위해 공부하고 사용했습니다.
+            * <strong>EC2</strong>, <strong>S3</strong>, <strong>RDS</strong>, <strong>CodeDeploy</strong> : 메인 프로젝트에서 서버 배포를 위해 공부하고 사용했습니다.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: My BootCamp Main Project
+        title: 부트캠프 메인 프로젝트
         icon: fab fa-github
         link: https://github.com/wonyongg/seb41_main_027
 #         link_text: Project Website
@@ -96,11 +96,8 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           우리가 함께 그려나가는 서울 친환경 지도, 여러분들의 장소를 공유해주세요.
-        description: > # this will include new lines to allow paragraphs
-           이 프로젝트는 코드스테이츠 백엔드 부트캠프에서 2023년 1월 3일부터 2023년 2월 3일까지 약 한 달 간 진행한 메인프로젝트입니다. 저희 팀은 환경에 
-          관심있는 사람들이 모여 친환경과 관련있는 웹사이트를 만들고자 했습니다. 저희는 국내에서 친환경 가게나 공방, 리샤이클샵 등에 관심있는 사람은 많지만, 
-          관련 장소는 쉽게 찾을 수 없다는 점에 주목해 서울과 인근 지역에 있는 친환경적인 장소와, 비건 레스토랑을 소개하는 웹사이트를 만들었습니다. 저는 백엔드 
-          팀에서 기본 기능 구현, JWT를 활용한 로그인/로그아웃 구현, Redis를 활용한 토큰 관리와 캐시 서버 구현을 담당했습니다.
+        description: | # this will include new lines to allow paragraphs
+          \n이 프로젝트는 코드스테이츠 백엔드 부트캠프에서 2023년 1월 3일부터 2023년 2월 3일까지 약 한 달 간 진행한 메인프로젝트입니다. 저희 팀은 환경에 관심있는 사람들이 모여 친환경과 관련있는 웹사이트를 만들고자 했습니다. 저희는 국내에서 친환경 가게나 공방, 리샤이클샵 등에 관심있는 사람은 많지만, 관련 장소는 쉽게 찾을 수 없다는 점에 주목해 서울과 인근 지역에 있는 친환경적인 장소와, 비건 레스토랑을 소개하는 웹사이트를 만들었습니다. 저는 백엔드 팀에서 기본 기능 구현, JWT를 활용한 로그인/로그아웃 구현, Redis를 활용한 토큰 관리와 캐시 서버 구현을 담당했습니다.
 
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
