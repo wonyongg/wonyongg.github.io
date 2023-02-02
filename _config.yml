@@ -96,7 +96,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          우리가 함께 그려나가는 서울 친환경 지도 🌱 🌏 여러분들의 장소를 공유해주세요 🥰
+          우리가 함께 그려나가는 서울 친환경 지도, 여러분들의 장소를 공유해주세요.
         description: | # this will include new lines to allow paragraphs
            이 프로젝트는 코드스테이츠 백엔드 부트캠프에서 2023년 1월 3일부터 2023년 2월 3일까지 약 한 달 간 진행한 메인프로젝트입니다. 저희 팀은 환경에 
           관심있는 사람들이 모여 친환경과 관련있는 웹사이트를 만들고자 했습니다. 저희는 국내에서 친환경 가게나 공방, 리샤이클샵 등에 관심있는 사람은 많지만, 관련
