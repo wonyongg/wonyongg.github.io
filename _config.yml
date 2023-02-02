@@ -81,7 +81,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: 부트캠프 메인 프로젝트
         icon: fab fa-github
         link: https://github.com/wonyongg/seb41_main_027
