@@ -52,34 +52,33 @@ about_content: | # this will include new lines to allow paragraphs
 
   저는 <mark>JAVA</mark>와 <mark>Spring Framework</mark>을 활용한 웹 애플리케이션 개발을 공부했습니다.
 
-#content:
-#  - title: Skills  # Title for the section
-#    quote: >
-#      공부하고 있거나, 공부했던 기술입니다.
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: left
-#        title: Backend
-#        description: | # this will include new lines to allow paragraphs
-#          * Python : 대학교에서 1년 간 교양 수업을 통해 배웠습니다. 교내 코딩 경시 대회에서 장려상 2번 수상한 경험이 있습니다.
-#          * Java : 부트캠프에서 본격적으로 배웠고 현재 주력으로 사용하고 있는 언어입니다. 부트캠프 메인 프로젝트에서 사용했습니다.
-#          * Spring Boot, Spring MVC, Spring Data JPA, Spring Data Redis : 부트캠프에서 처음 배웠고, 메인 프로젝트에서 사용했습니다.
-#          * Gradle, IntelliJ
-#
-#      - layout: left
-#        title: DevOps
-#        description: | # this will include new lines to allow paragraphs
-#          * GithubActions : 메인 프로젝트에서 서버 배포 자동화를 위해 공부하고 사용했습니다.
-#          * AWS :
-#            * EC2, S3, RDS, CodeDeploy : 메인 프로젝트에서 서버 배포를 위해 공부하고 사용했습니다.
-#
-#      - layout: left
-#        title: DataBase
-#        description: | # this will include new lines to allow paragraphs
-#          * MySQL : 메인프로젝트에서 사용했습니다.
-#          * Redis : 인메모리 DB를 활용한 JWT 토큰 관리와 캐시 서버 구현에 사용했습니다.
-
 content:
+  - title: Skills  # Title for the section
+    quote: >
+      공부하고 있거나, 공부했던 기술입니다.
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Backend
+        description: | # this will include new lines to allow paragraphs
+          * Python : 대학교에서 1년 간 교양 수업을 통해 배웠습니다. 교내 코딩 경시 대회에서 장려상 2번 수상한 경험이 있습니다.
+          * Java : 부트캠프에서 본격적으로 배웠고 현재 주력으로 사용하고 있는 언어입니다. 부트캠프 메인 프로젝트에서 사용했습니다.
+          * Spring Boot, Spring MVC, Spring Data JPA, Spring Data Redis : 부트캠프에서 처음 배웠고, 메인 프로젝트에서 사용했습니다.
+          * Gradle, IntelliJ
+
+      - layout: left
+        title: DevOps
+        description: | # this will include new lines to allow paragraphs
+          * GithubActions : 메인 프로젝트에서 서버 배포 자동화를 위해 공부하고 사용했습니다.
+          * AWS :
+            * EC2, S3, RDS, CodeDeploy : 메인 프로젝트에서 서버 배포를 위해 공부하고 사용했습니다.
+
+      - layout: left
+        title: DataBase
+        description: | # this will include new lines to allow paragraphs
+          * MySQL : 메인프로젝트에서 사용했습니다.
+          * Redis : 인메모리 DB를 활용한 JWT 토큰 관리와 캐시 서버 구현에 사용했습니다.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -98,7 +97,10 @@ content:
         quote: >
           우리가 함께 그려나가는 서울 친환경 지도, 여러분들의 장소를 공유해주세요.
         description: | # this will include new lines to allow paragraphs
-           이 프로젝트는 코드스테이츠 백엔드 부트캠프에서 2023년 1월 3일부터 2023년 2월 3일까지 약 한 달 간 진행한 메인프로젝트입니다. 저희 팀은 환경에 관심있는 사람들이 모여 친환경과 관련있는 웹사이트를 만들고자 했습니다. 저희는 국내에서 친환경 가게나 공방, 리샤이클샵 등에 관심있는 사람은 많지만, 관련 장소는 쉽게 찾을 수 없다는 점에 주목해 서울과 인근 지역에 있는 친환경적인 장소와, 비건 레스토랑을 소개하는 웹사이트를 만들었습니다. 저는 백엔드 팀에서 기본 기능 구현, JWT를 활용한 로그인/로그아웃 구현, Redis를 활용한 토큰 관리와 캐시 서버 구현을 담당했습니다.
+          " 이 프로젝트는 코드스테이츠 백엔드 부트캠프에서 2023년 1월 3일부터 2023년 2월 3일까지 약 한 달 간 진행한 메인프로젝트입니다. 저희 팀은 환경에 
+          관심있는 사람들이 모여 친환경과 관련있는 웹사이트를 만들고자 했습니다. 저희는 국내에서 친환경 가게나 공방, 리샤이클샵 등에 관심있는 사람은 많지만, 관련
+          장소는 쉽게 찾을 수 없다는 점에 주목해 서울과 인근 지역에 있는 친환경적인 장소와, 비건 레스토랑을 소개하는 웹사이트를 만들었습니다. 저는 백엔드 팀에서
+          기본 기능 구현, JWT를 활용한 로그인/로그아웃 구현, Redis를 활용한 토큰 관리와 캐시 서버 구현을 담당했습니다."
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -124,18 +126,18 @@ content:
         description: | # this will include new lines to allow paragraphs
           자바와 스프링을 메인으로 웹 애플리케이션을 개발하기 위한 전반적인 내용에 대해 공부했습니다.
 
-#      - layout: left
-#        title: 세종대학교
-#        caption: 2018.03 - 2023.02
-#        sub_title: 국제학부 일어일문학과 학사
-#        description: | # this will include new lines to allow paragraphs
-#
-#      - layout: left
-#        title: 일본 요코하마 국립 대학교
-#        caption: 2019.04 - 2020.02
-#        sub_title: 1년 방문학생
-#        description: | # this will include new lines to allow paragraphs
-#          방문학생 자격으로 1년간 일본에서 공부했습니다.
+      - layout: left
+        title: 세종대학교
+        caption: 2018.03 - 2023.02
+        sub_title: 국제학부 일어일문학과 학사
+        description: | # this will include new lines to allow paragraphs
+
+      - layout: left
+        title: 일본 요코하마 국립 대학교
+        caption: 2019.04 - 2020.02
+        sub_title: 1년 방문학생
+        description: | # this will include new lines to allow paragraphs
+          방문학생 자격으로 1년간 일본에서 공부했습니다.
 
   - title: Licenses
     layout: text
