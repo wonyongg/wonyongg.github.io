@@ -53,18 +53,18 @@ about_content: | # this will include new lines to allow paragraphs
   저는 <mark>JAVA</mark>와 <mark>Spring Framework</mark>을 활용한 웹 애플리케이션 개발을 공부했습니다.
 
 content:
-  - title: Skills  # Title for the section
-    quote: >
-      공부하고 있거나, 공부했던 기술입니다.
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Backend
-        description: | # this will include new lines to allow paragraphs
-          * Python : 대학교에서 1년 간 교양 수업을 통해 배웠습니다. 교내 코딩 경시 대회에서 장려상 2번 수상한 경험이 있습니다.
-          * Java : 부트캠프에서 본격적으로 배웠고 현재 주력으로 사용하고 있는 언어입니다. 부트캠프 메인 프로젝트에서 사용했습니다.
-          * Spring Boot, Spring MVC, Spring Data JPA, Spring Data Redis : 부트캠프에서 처음 배웠고, 메인 프로젝트에서 사용했습니다.
-          * Gradle, IntelliJ
+#  - title: Skills  # Title for the section
+#    quote: >
+#      공부하고 있거나, 공부했던 기술입니다.
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        title: Backend
+#        description: | # this will include new lines to allow paragraphs
+#          * Python : 대학교에서 1년 간 교양 수업을 통해 배웠습니다. 교내 코딩 경시 대회에서 장려상 2번 수상한 경험이 있습니다.
+#          * Java : 부트캠프에서 본격적으로 배웠고 현재 주력으로 사용하고 있는 언어입니다. 부트캠프 메인 프로젝트에서 사용했습니다.
+#          * Spring Boot, Spring MVC, Spring Data JPA, Spring Data Redis : 부트캠프에서 처음 배웠고, 메인 프로젝트에서 사용했습니다.
+#          * Gradle, IntelliJ
 
 #      - layout: left
 #        title: DevOps
