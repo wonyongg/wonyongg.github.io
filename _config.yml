@@ -50,7 +50,7 @@ about_profile_image: images/wonyong.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 제 이름은 황원용입니다. 2023년 2월에 코드스테이츠 백엔드 부트캠프를 수료하고 현재 구직 중입니다.
 
-  저는 <mark>Java</mark>와 <mark>Spring Boot</mark>을 활용한 웹 애플리케이션 개발을 공부했습니다.
+  저는 <mark>Java</mark>와 <mark>Spring Boot</mark>를 활용한 웹 애플리케이션 개발에 대해 공부했습니다.
 
 content:
   - title: Skills  # Title for the section
