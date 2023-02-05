@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/wonyong.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  안녕하세요. 제 이름은 황원용입니다. 대학에서 <mark>일어일문학</mark>을 전공했습니다. 그런데 제 전공과는 다르게 <String>수학적인 공부를 더 좋아합니다.</String> 
+  안녕하세요. 제 이름은 황원용입니다. 대학에서 <mark>일어일문학</mark>을 전공했습니다. 그런데 제 전공과는 다르게 <strong>수학적인 공부를 더 좋아합니다.</strong> 
   단순한 궁금증에 대학에서 교양 수업으로 일변수 미적분학을 수강하기도 했습니다. 대학 생활을 돌이켜보면 전공 수업보다 교양 수업으로 
   수강했던 이공계열 수업이 더 기억에 남고 재밌게 공부했던 것 같습니다. 그래서인지 자연스레 교양 수업으로 들었던 프로그래밍에 관심을 
   가지게 되었고 <mark>정보처리기사</mark> 자격증을 취득하고 개발자가 되기 위해 <mark>부트캠프</mark>에 참여하게 되었습니다.
@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   저는 <strong>오버 커뮤니케이션을 지향합니다.</strong> 이번 프로젝트에서도 팀원들과 외적으로도 많은 이야기를 나눴습니다. 이는 팀원들 간에 친밀감과
   유대감을 형성하게 했고, 결과적으로 중요 사항에 대해 트러블 없이 빠른 결정을 내리는 등 프로젝트의 원활한 진행에 큰 도움이 되었습니다.
    
-  저는 <strong>이타적인 개발자 문화에 동경심을 가지고 있습니다.<strong> 그중 오픈 소스를 만들고 공개하는 일은 정말 멋진 일이라고 생각합니다. 평소에
+  저는 <strong>이타적인 개발자 문화에 동경심을 가지고 있습니다.</strong> 그중 오픈 소스를 만들고 공개하는 일은 정말 멋진 일이라고 생각합니다. 평소에
   <strong>개발자스럽지 못한 반복적인 일을 보면 개선하고 싶은 욕구가 샘솟는</strong> 만큼 저 역시 언젠가 오픈 소스를 만들고 팀과 다른 사람들에게 공유하고 
   싶습니다.  
 
@@ -105,16 +105,11 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           우리가 함께 그려나가는 서울 친환경 지도, 여러분들의 장소를 공유해주세요.
-        description: | # this will include new lines to allow paragraphs
+        about_content: | # this will include new lines to allow paragraphs
           이 프로젝트는 부트캠프에서 진행한 메인 프로젝트입니다. 저희 팀은 서울과 인근 지역에 있는 친환경적인 장소와, 비건 레스토랑을 소개하는 웹사이트를 만들었습니다.
           
-          - Java, Spring Boot를 사용하여 서버 개발했습니다.          
-          - AWS 상에서 배포 및 DB 관리를 위해 EC2, S3, RDS 사용했습니다.        
-          - 배포 자동화를 위해 Github Actions 사용했습니다.         
-          - 서버 성능에 대한 시각화를 위해 AOP를 이용한 로깅 적용          
-          - 보다 구체적인 시각화를 위해 AWS CloudWatch + Grafana 사용          
-          - Redis를 이용하여 캐시 서버 적용
-          - 코드 리팩토링을 위해 Sonarqube 사용
+          저희 팀은 이번 메인 프로젝트를 통해서 어렵고 복잡한 기능을 구현하는 것보다 설계부터 배포 후 유지보수까지 이어지는 개발 프로세스의 전반적인 내용을 완벽히 구현
+          하는 데에 집중을 했습니다. 개발자에게 있어 가장 중요한 것이 성능 최적화부터 안정적인 서버 운영과 높은 유지보수성까지의 
           
 
 #  - title: Experience # Title for the section
