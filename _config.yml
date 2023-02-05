@@ -51,6 +51,10 @@ about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 제 이름은 황원용입니다. 2023년 2월에 코드스테이츠 백엔드 부트캠프를 수료하고 현재 구직 중입니다.
 
   저는 <mark>Java</mark>와 <mark>Spring Boot</mark>를 활용한 웹 애플리케이션 개발에 대해 공부했습니다.
+  
+  * 자신의 기술을 아낌없이 공개하는 개발자 문화에 큰 동경심을 가지고 있어 공부를 하기 시작했습니다. 
+  *
+  * 안정적인 서버, 효율적인 유지보수, 성능 개선을 위해 끝없이 고민하는 개발자가 되고 싶습니다.
 
 content:
   - title: Skills  # Title for the section
@@ -63,20 +67,20 @@ content:
         description: | # this will include new lines to allow paragraphs
           * <strong>Python</strong> : 대학교에서 1년 간 교양 수업을 통해 배웠습니다. 교내 코딩 경시 대회에서 장려상 2번 수상한 경험이 있습니다.
           * <strong>Java</strong> : 부트캠프에서 본격적으로 배웠고 현재 주력으로 사용하고 있는 언어입니다. 부트캠프 메인 프로젝트에서 사용했습니다.
-          * <strong>Spring Boot</strong>, <strong>Spring MVC</strong>, <strong>Spring Data JPA</strong>, <strong>Spring Data Redis</strong> : 부트캠프에서 처음 배웠고, 메인 프로젝트에서 사용했습니다.
-          * <strong>Gradle</strong>, <strong>IntelliJ</strong>
+          * <strong>Spring Boot</strong>, <strong>Spring MVC</strong>, <strong>Spring Data JPA</strong> : 부트캠프 내 컨텐츠와 인프런 강의를 통해 학습했습니다. 메인 프로젝트에서 사용했습니다. 
+          * <strong>Gradle</strong>, <strong>IntelliJ</strong> 부트캠프 내 모든 컨텐츠와 메인 프로젝트에서 사용했습니다.
 
       - layout: left
         title: DataBase
         description: | # this will include new lines to allow paragraphs
-          * <strong>MySQL</strong> : 메인프로젝트에서 사용했습니다.
-          * <strong>Redis</strong> : 인메모리 DB를 활용한 JWT 토큰 관리와 캐시 서버 구현에 사용했습니다.
+          * <strong>MySQL</strong> : RDMS에 대해 기본적인 내용을 알고 있습니다. 메인프로젝트에서 사용했습니다.
+          * <strong>Redis</strong> : NoSQL, 인메모리 DB, 캐시 서버에 대해 학습 후 사용한 경험이 있습니다. 구체적으로 인메모리 DB를 활용한 JWT 토큰 관리와 캐시 서버 구현에 사용했습니다.
 
       - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
-          * <strong>Github Actions</strong> : 메인 프로젝트에서 서버 배포 자동화를 위해 공부하고 사용했습니다.
-          * <strong>AWS(EC2, S3, RDS, CodeDeploy)</strong> : 메인 프로젝트에서 서버 배포를 위해 공부하고 사용했습니다.
+          * <strong>Github Actions</strong> : CI/CD에 대해 학습했고, AWS CodeBuild CodePipeLine CodeDeploy를 통한 배포 실습 경험이 있습니다. 메인 프로젝트에서 서버 배포 자동화를 위해 공부하고 사용했습니다.
+          * <strong>AWS(EC2, S3, RDS)</strong> : 각 서비스가 어떤 기능과 역할을 하는지 학습 후에 메인 프로젝트에서 서버 배포를 위해 사용했습니다. 
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
