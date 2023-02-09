@@ -57,9 +57,8 @@ about_content: | # this will include new lines to allow paragraphs
   저는 <strong>오버 커뮤니케이션을 지향합니다.</strong> 이번 프로젝트에서도 팀원들과 외적으로도 많은 이야기를 나눴습니다. 이는 팀원들 간에 친밀감과
   유대감을 형성하게 했고, 결과적으로 중요 사항에 대해 트러블 없이 빠른 결정을 내리는 등 프로젝트의 원활한 진행에 큰 도움이 되었습니다.
    
-  저는 <strong>이타적인 개발자 문화에 동경심을 가지고 있습니다.</strong> 그중 오픈 소스를 만들고 공개하는 일은 정말 멋진 일이라고 생각합니다. 평소에
-  <strong>개발자스럽지 못한 반복적인 일을 보면 개선하고 싶은 욕구가 샘솟는</strong> 만큼 저 역시 언젠가 오픈 소스를 만들고 팀과 다른 사람들에게 공유하고 
-  싶습니다.  
+  저는 <strong>이타적인 개발자 문화에 동경심을 가지고 있습니다.</strong> 그중 오픈 소스를 만들고 공개하는 일은 정말 멋진 일이라고 생각합니다. 
+  저 역시 언젠가 오픈 소스를 만들고 팀과 다른 사람들에게 공유하고 싶습니다. 
 
 content:
   - title: Skills  # Title for the section
@@ -73,7 +72,7 @@ content:
           * <strong>Python</strong> : 대학교에서 1년 간 교양 수업을 통해 배웠습니다. 교내 코딩 경시 대회에서 장려상 2번 수상한 경험이 있습니다.
           * <strong>Java</strong> : 부트캠프에서 본격적으로 배웠고 현재 주력으로 사용하고 있는 언어입니다. 모르는 게 있을 때마다 찾아가며 공부하고 있습니다.
           * <strong>Spring Boot</strong>, <strong>Spring MVC</strong>, <strong>Spring Data JPA</strong> : 부트캠프 내 컨텐츠와 인프런 강의를 통해 학습했습니다. 실무에 필요한 내용 위주로 공부했습니다.
-          * <strong>Gradle</strong>, <strong>IntelliJ</strong> 부트캠프 내 모든 컨텐츠와 메인 프로젝트에서 사용했습니다. 빌드 도구는 Gradle 외에 사용 경험이 없으며, IntelliJ 외에 다른 IDE는 VScode 사용을 익히고 있습니다.
+          * <strong>Gradle</strong>, <strong>IntelliJ</strong> 부트캠프 내 모든 컨텐츠와 메인 프로젝트에서 사용했습니다. 빌드 도구는 Gradle 외에 사용 경험이 없으며, IntelliJ 외에 다른 IDE는 현재 VScode 사용법을 익히고 있습니다.
 
       - layout: left
         title: DataBase
@@ -84,7 +83,7 @@ content:
       - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
-          * <strong>AWS</strong> : 메인프로젝트에서 배포를 위해 EC2와 RDS, S3를 사용했습니다. CI/CD에 대해 학습한 후, CodePipeLine을 만들어 AWS CodeBuild CodeDeploy를 통한 배포 실습을 한 경험이 있습니다.
+          * <strong>AWS</strong> : 메인프로젝트에서 배포를 위해 EC2와 RDS, S3를 사용했습니다. CI/CD에 대해 학습한 후, CodePipeLine을 만들어 AWS CodeBuild, CodeDeploy를 통한 배포 실습을 한 경험이 있습니다.
           * <strong>Github Actions</strong> : 메인프로젝트에서 서버 배포 자동화를 위해 공부하고 사용했습니다. Githhub Actions가 AWS S3에 빌드 결과물을 전송하면 S3가 이를 CodeDeploy에게 전달하여 EC2에 배포 및 실행하는 플로우로 진행했습니다.
 
   - title: Projects # Title for the section
@@ -116,6 +115,10 @@ content:
           이후 API 요청 비율이 높은 세 개의 메서드에 <strong>N+1 문제를 해결하는 쿼리 최적화</strong>와, <strong>Redis를 이용한 캐시 서버 도입</strong>으로 속도 향상 및 데이터베이스의 부하를 감소시키는 성능 최적화 작업을 수행했습니다. <br><br>
 
           마지막으로 <strong>Sonarqube를 활용하여 코드 품질 검사를 진행</strong>하였습니다. 아쉽게도 저희 프로젝트는 초기 검사에서 15%의 매우 낮은 테스트 커버리지가 나왔습니다. Sonarqube를 통해 테스트 코드 작성을 제대로 하지 않은 것에 대해 반성하게 되었고 테스트 주도 개발에 대해 공부하게 되는 계기가 되었습니다.
+          <br><br>
+
+          아래의 링크에 들어가시면 제가 메인 프로젝트를 진행하면서 혹은 끝난 이후에 블로깅한 내용을 확인하실 수 있습니다.
+        url: https://github.com/wonyongg/seb41_main_027_blogging
 
 
           
