@@ -94,7 +94,7 @@ content:
       - layout: top-middle
         title: 에코그린서울
         icon: fab fa-github
-        link: https://github.com/wonyongg/seb41_main_027
+        link: <strong>https://github.com/wonyongg/seb41_main_027</strong>
         caption: 2023.01 - 2023.02
 #         link_text: Project Website
 #        additional_links:
