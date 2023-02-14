@@ -69,7 +69,8 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Strength # Title for the section
     layout: text # Type of content section (list/text)
-    afagsegsegasge
+    about_content:
+      test
 
 
   - title: Projects # Title for the section
@@ -111,6 +112,7 @@ content:
           <br><br>
           <br><br>
           프로젝트 관련 블로깅 링크 : [https://github.com/wonyongg/seb41_main_027_blogging](https://github.com/wonyongg/seb41_main_027_blogging)
+            <br><br>
 
   - title: Skills  # Title for the section
     quote: >
@@ -124,6 +126,7 @@ content:
           * <strong></strong>
           * <strong>Spring Boot</strong>, <strong>Spring MVC</strong>, <strong>JPA</strong>, <strong>Spring Data JPA</strong> 
           * <strong>IntelliJ</strong> 
+          <br><br>
 
       - layout: left
         title: DevOps
@@ -131,6 +134,7 @@ content:
           * <strong>MySQL</strong>
           * <strong>AWS</strong>
           * <strong>Github</strong>, <strong>Github Actions</strong>
+          <br><br>
       # * <strong>Redis</strong> : NoSQL, 인메모리 DB, 캐시 서버에 대해 학습 후 사용한 경험이 있습니다. 구체적으로 인메모리 DB를 활용한 JWT 토큰 관리와 캐시 서버 구현에 사용했습니다.
 
       # - layout: left
@@ -162,6 +166,7 @@ content:
         sub_title: 1년 방문학생
         quote: | # this will include new lines to allow paragraphs
           방문학생 자격으로 1년간 일본에서 공부했습니다.
+          <br><br>
 
   - title: Licenses
     layout: text
