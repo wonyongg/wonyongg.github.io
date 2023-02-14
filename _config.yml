@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
   오버 커뮤니케이션을 지향하고, 지식과 기술을 공유하는 개발자 문화를 동경하고 있습니다.<br>
   프로젝트 과정에서 팀원들과 활발히 소통하여 협동심을 높이고, 프로젝트 내 스터디를 통해 효율적인 학습을 경험했습니다.<br>
   이를 계기로 <strong>팀원들 간에 자주 소통하고 공유하는 개발 문화를 지향</strong>하게 되었습니다.
-
+  <br><br>
 # <br><br>
 # Github : https://github.com/wonyongg 
 # <br>
@@ -69,10 +69,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Strength # Title for the section
     layout: text # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        description: | # this will include new lines to allow paragraphs
-          test
+    afagsegsegasge
 
 
   - title: Projects # Title for the section
