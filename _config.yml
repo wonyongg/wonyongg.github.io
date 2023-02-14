@@ -60,7 +60,6 @@ about_content: | # this will include new lines to allow paragraphs
   프로젝트 과정에서 팀원들과 활발히 소통하여 협동심을 높이고, 프로젝트 내 스터디를 통해 효율적인 학습을 경험했습니다.<br>
   이를 계기로 <strong>팀원들 간에 자주 소통하고 공유하는 개발 문화를 지향</strong>하게 되었습니다.
   <br><br>
-  <br><br>
 
 content:
   - title: Strength # Title for the section
@@ -77,9 +76,6 @@ content:
           * <strong>항상 타인을 생각하는 이타심</strong><br>
             -> 여러 번의 페어 프로그래밍 경험에서 어려워하는 동기들을 상담해주거나, 아는 내용을 친절하게 설명하여 좋은 리뷰를 다수 받음.
           <br><br>
-
-
-
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -118,9 +114,9 @@ content:
           - <strong>코드 품질 향상에 대한 노력</strong><br>
             -> 팀원 간의 코드 스타일을 병합하고, 프로젝트의 의미있는 테스트 커버리지들을 높히기 위해 Sonarqube 도입
           <br><br>
-          <br><br>
 
           프로젝트 관련 블로깅 링크 : [https://github.com/wonyongg/seb41_main_027_blogging](https://github.com/wonyongg/seb41_main_027_blogging)
+          <br><br>
 
   - title: Skills  # Title for the section
     quote: >
