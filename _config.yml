@@ -157,7 +157,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: 코드스테이트 백엔드 부트캠프 41기
+        title: 코드스테이츠 백엔드 부트캠프 41기
         caption: 2022.08 - 2023.02
         sub_title: 자바 스프링 백엔드 부트캠프
         quote: | # this will include new lines to allow paragraphs
