@@ -134,7 +134,6 @@ content:
         title: Backend
         description: | # this will include new lines to allow paragraphs
           * <strong>Java</strong>
-          * <strong></strong>
           * <strong>Spring Boot</strong>, <strong>Spring MVC</strong>, <strong>JPA</strong>, <strong>Spring Data JPA</strong> 
           * <strong>IntelliJ</strong> 
           <br><br>
