@@ -68,9 +68,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Strength # Title for the section
-    layout: text # Type of content section (list/text)
-    about_content:
-      test
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        description: |
+          sdfsdgsdgsagsadgds
+
 
 
   - title: Projects # Title for the section
