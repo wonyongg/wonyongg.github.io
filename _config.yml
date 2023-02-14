@@ -6,9 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 황원용(WonYong Hwang)
+name: 황원용
 title: 백엔드 개발자
-email: kakaohwy@gmail.com
+# email: kakaohwy@gmail.com
 #website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
