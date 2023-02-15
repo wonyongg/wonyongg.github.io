@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: 황원용
 title: 백엔드 개발자
-email: kakaohwy@gmail.com
+# email: kakaohwy@gmail.com
 #website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/wonyong.jpg
 about_content: | # this will include new lines to allow paragraphs
   대학교에서 처음 프로그래밍을 배워 해당 수업에서 A+ 학점을 받고 교내 코딩 경시 대회에서 2번 입상했습니다.<br>
-  문제 해결을 위해 고민하는 시간을 즐거웠고, 정답을 도출해냈을 때는 큰 성취감을 느꼈습니다.<br> 
+  문제 해결을 위해 고민하는 시간이 즐거웠고, 정답을 도출해냈을 때는 큰 성취감을 느꼈습니다.<br> 
   이때의 경험이 개발자로 진로를 결정하는데 큰 영향을 주었습니다.
   <br><br>
 
